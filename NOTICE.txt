@@ -1,0 +1,16 @@
+This application is Copyright © (owner name). All rights reserved.
+
+The following sets forth attribution notices for third party software that may be contained in this application.
+
+lombok
+https://github.com/rzwitserloot/lombok
+Copyright 2009-2015 The Project Lombok Authors.
+MIT License
+MySQL Connector/J
+https://github.com/mysql/mysql-connector-j
+Copyright 2016, Oracle Corporation and/or its affiliates
+Universal FOSS Exception 1.0
+Spring Boot
+https://github.com/spring-projects/spring-boot
+Copyright 2012-2020 Pivotal, Inc.
+Apache License 2.0

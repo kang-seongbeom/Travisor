@@ -1,4 +1,10 @@
 package kr.ac.jejunu.opensource.travisor.dto;
 
-public class Dto {
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+@AllArgsConstructor
+@NoArgsConstructor
+public class Dto<T> {
+    T t;
 }
