@@ -5,5 +5,5 @@ import kr.ac.jejunu.opensource.travisor.model.Model;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
-public interface Repository extends JpaRepository<Model, Integer> {
-}
+//public interface Repository extends JpaRepository<Model, Integer> {
+//}
